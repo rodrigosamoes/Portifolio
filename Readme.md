@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;  Jupyter Notebook | Visual Studio Code | Spyder
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
-
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rodrigo-sam%C3%B5es-0a378185/) 👨🏻‍💻
